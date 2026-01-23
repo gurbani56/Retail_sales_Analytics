@@ -1,0 +1,16 @@
+store_id,store_name,region,city,state,opened_date
+1,Store_North_1,North,City_North_3,North,2020-05-18
+2,Store_North_2,North,City_North_1,North,2019-06-18
+3,Store_North_3,North,City_North_1,North,2019-10-02
+4,Store_South_1,South,City_South_1,South,2020-06-06
+5,Store_South_2,South,City_South_3,South,2017-12-12
+6,Store_South_3,South,City_South_1,South,2017-09-10
+7,Store_East_1,East,City_East_2,East,2020-10-28
+8,Store_East_2,East,City_East_1,East,2020-06-24
+9,Store_East_3,East,City_East_1,East,2019-09-13
+10,Store_West_1,West,City_West_3,West,2017-08-18
+11,Store_West_2,West,City_West_1,West,2017-11-09
+12,Store_West_3,West,City_West_1,West,2017-05-12
+13,Store_Central_1,Central,City_Central_3,Central,2017-12-12
+14,Store_Central_2,Central,City_Central_2,Central,2019-10-08
+15,Store_Central_3,Central,City_Central_2,Central,2017-09-13

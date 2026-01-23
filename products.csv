@@ -1,0 +1,40 @@
+product_id,product_name,category,unit_cost,unit_price
+1,Laptop,Electronics,190.4,464.73
+2,Smartphone,Electronics,367.34,741.43
+3,Tablet,Electronics,82.23,122.29
+4,Headphones,Electronics,33.75,78.96
+5,Smart Watch,Electronics,302.55,650.39
+6,Camera,Electronics,15.19,37.42
+7,T-Shirt,Clothing,417.06,648.45
+8,Jeans,Clothing,95.0,144.41
+9,Jacket,Clothing,155.6,300.26
+10,Sneakers,Clothing,218.81,360.93
+11,Dress,Clothing,307.87,451.76
+12,Sweater,Clothing,149.61,260.27
+13,Coffee Maker,Home & Garden,230.75,517.4
+14,Blender,Home & Garden,103.84,199.07
+15,Vacuum,Home & Garden,298.25,404.34
+16,Plant Pot,Home & Garden,305.73,460.02
+17,Lamp,Home & Garden,37.2,90.72
+18,Rug,Home & Garden,482.99,1096.42
+19,Yoga Mat,Sports,155.78,220.78
+20,Dumbbells,Sports,343.7,628.34
+21,Tennis Racket,Sports,65.41,123.9
+22,Football,Sports,22.02,52.66
+23,Bicycle,Sports,133.1,278.84
+24,Running Shoes,Sports,159.3,306.5
+25,Fiction Novel,Books,275.62,419.45
+26,Cookbook,Books,484.94,1081.5
+27,Biography,Books,470.05,1115.81
+28,Self-Help,Books,300.96,724.19
+29,Children's Book,Books,48.8,74.92
+30,Board Game,Toys,27.39,46.3
+31,Puzzle,Toys,197.4,320.89
+32,Action Figure,Toys,415.23,717.55
+33,Doll,Toys,144.06,281.1
+34,Building Blocks,Toys,74.76,169.15
+35,Coffee Beans,Food & Beverage,41.9,104.1
+36,Chocolate,Food & Beverage,387.26,595.79
+37,Tea,Food & Beverage,7.73,17.62
+38,Snacks,Food & Beverage,354.89,771.83
+39,Wine,Food & Beverage,386.78,537.18
